@@ -15,7 +15,7 @@ The configuration file must be a .csv with the columns first name, last name, id
 
 ### Output File
 
-You must supply the name that the output file will be saved under. The columns of this file are first name, last name, attended (true/false). A sample output is provided (example/attendance.csv).
+You must supply the name that the output file will be saved under. The columns of this file are first name, last name, attended (true/false). A sample output is provided [example/attendance.csv].
 
 ## Future Development
 
