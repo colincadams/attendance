@@ -19,6 +19,6 @@ You must supply the name that the output file will be saved under. The columns o
 
 ## Future Development
 
-*In the current implementation the output file isn't written until the end. This means that if the script crashes all input and records are lost. We will explore having the input stored in a temporary file so that it can be restored or the session can be resumed in the future.
+* In the current implementation the output file isn't written until the end. This means that if the script crashes all input and records are lost. We will explore having the input stored in a temporary file so that it can be restored or the session can be resumed in the future.
 
-*Create a simple GUI (likely PyQt) and PyInstaller executables to make it easier to use for those unfamiliar with CLIs
+* Create a simple GUI (likely PyQt) and PyInstaller executables to make it easier to use for those unfamiliar with CLIs.
