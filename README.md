@@ -10,14 +10,12 @@ To end the script, type `quit` or `exit`. This will cause the output to be writt
 
 ### Configuration File
 
-The configuration file must be a .csv with the columns first name, last name, id. The member csv is provided (config.csv).
+The configuration file must be a .csv with the columns first name, last name, id. A sample configuration csv is provided (sample_config.csv).
 
 ### Output File
 
-You must supply the name that the output file will be saved under. The columns of this file are first name, last name, attended (true/false).
+You must supply the name that the output file will be saved under. The columns of this file are first name, last name, attended (true/false). A sample output is provided (sample_att.csv).
 
 ## Notes
 
-In the current implementation, the output isn't written until the end. This means that if the script crashes, all input and records are lost. We will explore having the input stored in a temporary file, so that it can be restored, or the session can be resumed in the future.
-
-
+In the current implementation the output file isn't written until the end. This means that if the script crashes all input and records are lost. We will explore having the input stored in a temporary file so that it can be restored or the session can be resumed in the future.
