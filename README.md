@@ -11,11 +11,11 @@ To end the script, type `quit` or `exit`. This will cause the output to be writt
 
 ### Configuration File
 
-The configuration file must be a .csv with the columns first name, last name, id. A sample configuration csv is provided (example/config.csv).
+The configuration file must be a .csv with the columns first name, last name, id. A sample configuration csv is provided: [example/config.csv](http://github.com/colincadams/attendance/blob/master/example/config.csv).
 
 ### Output File
 
-You must supply the name that the output file will be saved under. The columns of this file are first name, last name, attended (true/false). A sample output is provided [example/attendance.csv].
+You must supply the name that the output file will be saved under. The columns of this file are first name, last name, attended (true/false). A sample output is provided: [example/attendance.csv](http://github.com/colincadams/attendance/blob/master/example/attendance.csv).
 
 ## Future Development
 
