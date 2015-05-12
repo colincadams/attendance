@@ -3,7 +3,7 @@
 Attendance is a python script used to take attendance by entering id's of members, usually via a card reader.
 
 ## Execution
-The script can be run with Python 2 or 3, as `python attendance`.
+The script can be run with Python 2 or 3, as `python attendance [config file] [output file]`.
 
 To end the script, type `quit` or `exit`. This will cause the output to be written and the script to terminate.
 
